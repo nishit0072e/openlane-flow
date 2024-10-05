@@ -53,3 +53,5 @@ To quickly test your installation, simply run
 openlane --smoke-test
 ``` 
 in the nix shell.
+
+# For more details and running the openlane flow this [openlane](https://openlane2.readthedocs.io/en/latest/getting_started/newcomers/index.html#running-the-default-flow) documentation
